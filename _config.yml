@@ -15,8 +15,8 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
+url:            'http://mcharles.github.io'
+author:         'Malcolm Charles'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
